@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    Globalteckz
-#    Copyright (C) 2013-Today(www.globalteckz.com).
+#    OpenERP, Open Source Management Solution
+#    Copyright (C) 2004-2010 Tiny SPRL (<http://tiny.be>).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -20,17 +20,19 @@
 ##############################################################################
 
 {
-    'name' : 'Tax',
+    'name' : 'Tax Disable',
     'version' : '1.0',
     'author' : 'Globalteckz',
     'description': """
         This module customizes default behaviour of tax configuration on 
-        sale order's, purchase order's and Invoices. Specially designed for Saudi to hide the tax details on
-        invoices/Sales/Purchase order and from one2many fields like: Sale Order Line's, Purchase Order Line's and Invoice Line's
+        sale order's, purchase order's and Invoices. Specially designed for UAE business to hide the tax details on
+        invoices/Sales/Purchase order and from Sale Order's, Purchase Order's and Invoice as well as hiding the tax 
+        menu from the Accounting configuration menu
     """,
     'category': 'Accounts and Tax Configuration',
-    'website' : 'http://www.globalteckz.com',
+    'website' : 'www.globalteckz.com',
     'depends' : ['sale','account','purchase'],
+    'images': ['images/main_screenshot.png'],
     'demo' : [],
     'data' : [
             'views/sale_view.xml',
@@ -40,7 +42,7 @@
             ],
     'test' : [],
     'auto_install': False,
-    'application': False,
+    'application': True,
     'installable': True,
 }
 
