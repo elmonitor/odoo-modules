@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 ##############################################################################
 #
-#    OpenERP, Open Source Management Solution
-#    Copyright (C) 2004-2010 Tiny SPRL (<http://tiny.be>).
+#    Globalteckz
+#    Copyright (C) 2013-Today(www.globalteckz.com).
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -25,7 +25,7 @@
     'author' : 'Globalteckz',
     'description': """
         This module customizes default behaviour of tax configuration on 
-        sale order's, purchase order's and Invoices. Specially designed for UAE business to hide the tax details on
+        sale order's, purchase order's and Invoices. Specially designed for Saudi Arabia business to hide the tax details on
         invoices/Sales/Purchase order and from Sale Order's, Purchase Order's and Invoice as well as hiding the tax 
         menu from the Accounting configuration menu
     """,
