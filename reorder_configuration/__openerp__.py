@@ -4,7 +4,7 @@
     'version': '1.0',
     'website' : 'https://www.globalteckz.com',
     'category': 'Product',
-    'summary': 'Confirguration of Automatic recordering',
+    'summary': 'Configuration of Automatic recordering',
     'description': """
 
 
