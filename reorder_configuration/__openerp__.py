@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 {
-    'name': 'Configuration For Automatic Reordering',
+    'name': 'Configuration For Automatic Re-ordering',
     'version': '1.0',
     'website' : 'https://www.globalteckz.com',
     'category': 'Product',
-    'summary': 'Configuration of Automatic recordering',
+    'summary': 'Configuration of Automatic re-ordering',
     'description': """
 
 
