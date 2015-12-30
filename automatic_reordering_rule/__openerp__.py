@@ -4,12 +4,12 @@
     'version': '1.0',
     'website' : 'https://www.globalteckz.com',
     'category': 'Product',
-    'summary': 'Automatic recordering rule on product creation',
+    'summary': 'Automatic re-ordering rule on product creation',
     'description': """
-Automatic recordering rule on product creation.
+Automatic re-ordering rule on product creation.
 ======================================
 
-This module will create Automatic recordering rule on product creation
+This module will create Automatic re-ordering rule on product creation
 
 Key Features
 ------------
