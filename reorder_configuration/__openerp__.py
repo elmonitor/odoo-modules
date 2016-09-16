@@ -5,6 +5,7 @@
     'website' : 'https://www.globalteckz.com',
     'category': 'Product',
     'summary': 'Configuration of Automatic re-ordering',
+    'images': ['static/description/auto_reorder_conf_banner.png'],
     'description': """
 
 
