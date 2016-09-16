@@ -5,6 +5,7 @@
     'website' : 'https://www.globalteckz.com',
     'category': 'Product',
     'summary': 'Automatic re-ordering rule on product creation',
+    'images': ['static/description/auto_reorder_banner.png'],
     'description': """
 Automatic re-ordering rule on product creation.
 ======================================
