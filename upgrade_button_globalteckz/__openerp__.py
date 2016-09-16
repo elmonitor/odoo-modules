@@ -24,6 +24,7 @@
     'category': 'Extra Tools',
     'sequence': 2,
     'summary': 'Upgrade your module using Kanban view without going in form view',
+    'images': ['static/description/upgrade_banner.png'],
     'description': '''
 Set Upgrade Button in kanban view if app is installed
 
