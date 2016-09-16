@@ -33,7 +33,6 @@
     'category': 'Accounts and Tax Configuration',
     'website' : 'www.globalteckz.com',
     'depends' : ['sale','account','purchase'],
-    'images': ['images/main_screenshot.png'],
     'demo' : [],
     'data' : [
             'views/sale_view.xml',
