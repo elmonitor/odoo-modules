@@ -23,6 +23,7 @@
     'name' : 'Tax Disable',
     'version' : '1.0',
     'author' : 'Globalteckz',
+    'images': ['static/description/tax_disable_banner.png'],
     'description': """
         This module customizes default behaviour of tax configuration on 
         sale order's, purchase order's and Invoices. Specially designed for Saudi Arabia business to hide the tax details on
